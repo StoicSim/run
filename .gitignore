@@ -1,3 +1,4 @@
-*.txt
+first.txt
+first1.txt
 *.log
-
+static/
